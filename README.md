@@ -1,7 +1,5 @@
-<p>
-  <strong style="font-size: 3.5em;">Hello, I'm JT</strong>
-  <img src="shark.gif" alt="Logo" width="40" style="vertical-align:middle; margin-right:10px;">
-</p>
+#Hello, I'm JT <img src="shark.gif" alt="Logo" width="40" style="vertical-align:middle; margin-right:10px;">
+
 
 
 ---
