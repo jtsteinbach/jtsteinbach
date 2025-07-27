@@ -1,4 +1,6 @@
-![Alt text](shark.gif)
+![Logo](shark.gif)  # Hello, I'm JT
+---
+I am a cyber security researcher and programmer.
 
 <!--
 **jtsteinbach/jtsteinbach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
