@@ -6,7 +6,7 @@
     height="80"
     style="vertical-align:middle;"
   />
-  <strong>Hello! My name's JT Steinbach</strong>
+  <strong>Hello! I am JT Steinbach</strong>
 </h1>
 
 I’m a cybersecurity researcher and developer specializing in creating proprietary tools, for offensive and defensive security.
