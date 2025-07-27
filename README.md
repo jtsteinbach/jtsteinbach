@@ -1,4 +1,4 @@
-## Hi there 👋
+![Alt text](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/86abb766-4717-427e-99d7-3e0d97d15f1b/dapulvt-a43753e0-17db-4b20-9302-f819c6ea3faf.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg2YWJiNzY2LTQ3MTctNDI3ZS05OWQ3LTNlMGQ5N2QxNWYxYlwvZGFwdWx2dC1hNDM3NTNlMC0xN2RiLTRiMjAtOTMwMi1mODE5YzZlYTNmYWYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LwYmqfQxGw5g-KDDk96g8AOILmbIqSy2FaEHuB-UmBQ)
 
 <!--
 **jtsteinbach/jtsteinbach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
