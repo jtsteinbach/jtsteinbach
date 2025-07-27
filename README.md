@@ -1,4 +1,6 @@
-#Hello, I'm JT ![Logo](shark.gif) 
+<img src="shark.gif" alt="Logo" width="40" style="vertical-align:middle; margin-right:10px;" />
+<h1 style="display:inline">Hello, I'm JT</h1>
+
 ---
 I am a cyber security researcher and programmer.
 
