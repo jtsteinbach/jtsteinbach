@@ -1,4 +1,4 @@
-![Logo](shark.gif)  # Hello, I'm JT
+#Hello, I'm JT ![Logo](shark.gif) 
 ---
 I am a cyber security researcher and programmer.
 
