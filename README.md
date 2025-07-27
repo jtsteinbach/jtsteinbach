@@ -9,7 +9,7 @@
   />
 </h1>
 
-I’m a cybersecurity researcher and developer specializing in creating proprietary tools, for offensive and defensive security.
+I’m a cybersecurity researcher and developer specializing in creating tools for offensive and defensive security.
 
 **Languages:** Rust, Python  
 **Website:** [jts.gg](https://jts.gg)
